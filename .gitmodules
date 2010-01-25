@@ -1,0 +1,3 @@
+[submodule "Frameworks/CPVideoKit"]
+	path = Frameworks/CPVideoKit
+	url = http://github.com/jfahrenkrug/CPVideoKit.git

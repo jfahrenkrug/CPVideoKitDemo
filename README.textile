@@ -1,0 +1,11 @@
+h1. CPVideoKitDemo for Cappuccino
+
+You need to serve this app from a webserver, because Flash has certain restrictions when it comes to accessing local files.
+I have included a Sinatra server, just start it with
+
+  ruby testserver.rb
+  
+Now you can open the app at "http://localhost:4567/index.html":http://localhost:4567/index.html!
+
+Have fun!
+
