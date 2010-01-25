@@ -1,5 +1,10 @@
 h1. CPVideoKitDemo for Cappuccino
 
+The actual CPVideoKit has been added as a git submodule. So you need to first run...
+
+git submodule init
+git submodule update
+
 You need to serve this app from a webserver, because Flash has certain restrictions when it comes to accessing local files.
 I have included a Sinatra server, just start it with
 
